@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+div{
+    margin-left: 25%;
+    position: inherit;
+    left: 30%;
+    background-color: lightgray;
+    border-style: dotted;
+    border-width: thick;
+    border-color: black;
+    margin-bottom: 25px;
+    text-align: center;
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+a{
+    color: lightgrey;
+    text-decoration: none;
+}
+
